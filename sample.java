@@ -17,6 +17,8 @@ public class HelloWorld {
         System.out.print("enter a number1: ");
         int number1=reader.nextInt();
         System.out.println("you entered number1: "+number1);
-        
+       
+        int sum=number+number1;
+        System.out.println("sum is:"+sum);
     }
 }
