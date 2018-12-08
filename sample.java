@@ -14,5 +14,7 @@ public class HelloWorld {
 
         // println() prints the following line to the output screen
         System.out.println("You entered: " + number);
+        int sum=number+number1;
+        System.out.println("sum is:"+sum);
     }
 }
