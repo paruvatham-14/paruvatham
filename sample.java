@@ -14,5 +14,9 @@ public class HelloWorld {
 
         // println() prints the following line to the output screen
         System.out.println("You entered: " + number);
+        System.out.print("enter a number1: ");
+        int number1=reader.nextInt();
+        System.out.println("you entered number1: "+number1);
+        
     }
 }
